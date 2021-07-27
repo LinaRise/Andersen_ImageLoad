@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Andersen Image Load</string>
+    <string name="enter_link_to_picture">Enter link to picture</string>
+    <string name="picasso">Picasso</string>
+    <string name="glide">Glide</string>
+    <string name="image_description">Image from you link</string>
+    <string name="link_to_picture_ask">Please, enter link to the picture</string>
+    <string name="not_link">It\'s not a link</string>
+    <string name="android">Android</string>
+</resources>
